@@ -7,9 +7,9 @@ You can find the subject in the directory subjects/ on this repository.
 
 # Result 
 sb$ ./fillit hardtest.txt 
-AAB..CC
-AABBCC.
-GGBEFFF
+AAB..CC\n
+AABBCC.\n
+GGBEFFF\n
 .GEEIIF
 KGEIIJJ
 KKDDHHJ
